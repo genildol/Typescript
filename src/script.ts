@@ -1,7 +1,7 @@
 let numero1 = document.getElementById('numero1') as HTMLInputElement;
 let numero2 = document.getElementById('numero2') as HTMLInputElement;
-let botao = document.getElementById('calcularas') as HTMLInputElement;
-let res = document.getElementById('resultado') as HTMLInputElement;
+let botao = document.getElementById('calcularas');
+let res = document.getElementById('resultado');
 
 function calcular(n1: number, n2: number) {
   return n1 + n2;
