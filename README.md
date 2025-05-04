@@ -45,6 +45,55 @@ We will work with basic documentation and configurations.
     </tr>
     <tr>
     </tbody>
+  <tr>
+      <td>
+        <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white">        
+      </td>
+      <td>
+        <code>![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=whitee)</code>
+      </td>
+    </tr>
+    </tbody>
   <div/> 
+  <tfoot></tfoot>
+</table>
+
+## Ferramentas
+
+<table>
+  <thead>
+    <tr align="left">
+      <th>Badge</th>
+      <th>Markdown</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <td>
+        <img align="center" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+      </td>
+      <td>
+        <code>![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)</code>
+      </td>
+    </tr>
+     </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+      </td>
+      <td>
+        <code>![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)</code>
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+      </td>
+      <td>
+        <code>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)</code>
+      </td>
+    </tr>
+    <tr>
+  </tbody>
   <tfoot></tfoot>
 </table>
