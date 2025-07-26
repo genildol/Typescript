@@ -8,9 +8,8 @@ function calcular(n1: number, n2: number) {
 
 }
 
-
 botao.addEventListener('click', function () {
-  res.innerHTML = calcular(+numero1.value, +numero2.value).toString();
+  res.innerHTML = calcular(+numero1.value, +numero2.value);
 
 });
 
