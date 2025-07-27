@@ -1,13 +1,12 @@
-let nome: string = 'Genildo';
 
-let idade: number = 100;
+let nomes: any[] = ['Genildo', 'Mario', 'Lauro'];
 
-let programador: boolean = true;
 
-let nomes: string[] = ['Genildo', 'Mario', 'Lauro'];
+nomes.push(100);
 
-let programadores: Array<string> = ['Genildo', 'Mario', 'Lauro'];
 
-let idades: number[] = [10, 20, 30];
+// let nome: string = 'Genildo';
 
-let numeros: Array<number> = [1, 2, 3];
+// let idade: number = 100;
+
+
