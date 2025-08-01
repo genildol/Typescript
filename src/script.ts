@@ -1,17 +1,21 @@
-function mostrarIdade(idade: number | string) {
-  if (typeof idade === 'string') {
-    console.log(idade.toUpperCase());
-  } else {
-    console.log(idade);
-  }
+// type User = {
+//   nome: string;
+//   idade: number;
+// };
+
+interface User {
+  nome: string;
+  idade: number;
 }
-function mostrarDoc(idade: number | string) {
-  if (typeof idade === 'string') {
-    console.log(idade.toUpperCase());
-  } else {
-    console.log(idade);
-  }
+interface User {
+  email: string;
 }
 
-mostrarIdade(20);
-mostrarIdade('20');
+function resumo(usuario: User) {
+  return 'Ola, ${usuario.nome}, voce tem ${usuario.idade} anos.';
+}
+resumo({
+  nome: 'Genildo',
+  idade: 90,
+  email: 'gsmicros@gsmicros.com'
+});
